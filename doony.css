@@ -606,6 +606,7 @@ textarea {
 }
 
 /********************   top panel styles      ***********************/
+/*
 .yui-skin-sam #top-panel {
   background-url: none;
   background-image: none;
@@ -620,8 +621,10 @@ textarea {
   font-size: 16px;
   background-image: none;
 }
+*/
 
 /******************* side panel styles ***********************/
+/*
 #tasks {
   margin-top: 5px;
   font-size: 16px;
@@ -648,8 +651,10 @@ textarea {
 .task img {
   display: none;
 }
+*/
 
 /* make the link target bigger */
+/*
 #buildHistory .model-link {
   padding: 10px 16px 10px 0;
 }
@@ -683,6 +688,7 @@ textarea {
   padding-top: 1px;
   display: inline-block;
 }
+*/
 
 /*
  * The console output doesn't have an ID on it, sadly, so style its place in

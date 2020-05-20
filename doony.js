@@ -434,6 +434,7 @@ jQuery(function($) {
     };
 
     var domain = getSubdomain(window.location.hostname);
+/*
     var doonyTitleLink = $('#jenkins-home-link');
     if (doonyTitleLink.length === 0) {
         doonyTitleLink = $("#top-panel a").first();
@@ -457,6 +458,7 @@ jQuery(function($) {
             return replaced;
         });
     });
+*/
 
     // build a callout
     var getCallout = function(message, href) {
